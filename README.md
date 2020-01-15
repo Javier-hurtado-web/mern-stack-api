@@ -24,9 +24,6 @@ A simple api to get fake user
       4 before running the server just compile the webpack with **npm run webpack** though I will update the bundle.js file as much as              possible
       5  Go to **http://localhost:8080/** to see the page
    
-   
-## Contact details
-for any doubts and queries mail me at : anik220798@gmail.com
 
 
 ## Contributors Always Welcome
